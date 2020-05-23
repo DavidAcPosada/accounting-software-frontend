@@ -1,0 +1,43 @@
+import { 
+    pink, 
+    purple, 
+    indigo, 
+    blue, 
+    teal, 
+    green, 
+    lightGreen, 
+    lime, 
+    yellow, 
+    amber, 
+    orange, 
+    blueGrey 
+} from '@material-ui/core/colors'
+
+export default {
+    a: pink[500],
+    b: purple[500],
+    c: indigo[500],
+    d: blue[500],
+    e: teal[500],
+    f: green[500],
+    g: lightGreen[500],
+    h: lime[500],
+    i: yellow[500],
+    j: amber[500],
+    k: orange[500],
+    l: blueGrey[500],
+    m: pink[500],
+    n: purple[500],
+    o: indigo[500],
+    p: blue[500],
+    q: teal[500],
+    r: green[500],
+    s: lightGreen[500],
+    t: lime[500],
+    u: yellow[500],
+    v: amber[500],
+    w: orange[500],
+    x: blueGrey[500],
+    y: amber[500],
+    z: indigo[500]
+}
